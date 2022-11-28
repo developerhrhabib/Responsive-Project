@@ -78,6 +78,9 @@ img{
 .navbar-brand{
     font-size: 2rem !important;
 }
+.navbar-brand span{
+    color: red;
+}
 .nav-link{
     color: black;
     display: max-content !important;
